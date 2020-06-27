@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    --primary: #497980;
+    --secondary: #4fdb32;
+    --tertiary: #28edc6;
+}
+
+header {
+    width: 100%;
+    max-width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+header .Timer {
+    align-items: flex-end;
+    color: var(--primary);
+}
+
+header .highScore {
+    color: var(--primary);
+    
+}
