@@ -16,11 +16,16 @@ header {
 }
 
 header .Timer {
-    align-items: flex-end;
+    align-items: stretch;
     color: var(--primary);
 }
 
 header .highScore {
     color: var(--primary);
-    
+
+}
+main .container {
+    margin: auto;
+    width: 100%;
+    text-align: center;    
 }
