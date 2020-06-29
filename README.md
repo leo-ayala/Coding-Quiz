@@ -1,12 +1,12 @@
-## Coding Quiz
+# Coding Quiz
 
-# Overview
+## Overview
 This project was about demonstrating the ability to dynamically change the HTML with JavaScript. 
 
-# Link to Quiz
+## Link to Quiz
+ https://leo-ayala.github.io/Coding-Quiz/
 
-
-# Components 
+## Components 
 
 Here we have the code that allows for the timer to run down when we press the Start! button.
 

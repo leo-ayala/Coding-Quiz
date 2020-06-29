@@ -6,19 +6,19 @@
     <link rel="stylesheet" href="./assets/style.css">
     <title>Quiz Game!</title>
 </head>
-<body>
+<body id="gamePage">
     <header>
-        <div id="highScore">
-            <button> View high scores</button>
+        <div id="highScore" >
+            <button class="button"> View high scores</button>
         </div>
         <div class="Timer">
-            <h2>Time:</h2>
-            <h2 id="Tbutton"></h2>
+            <h2>Time: <span id="Tbutton"> </span></h2>
         </div>
     </header>
     <main>
         <div class="container">
-        <h2>Lets get ready to review Javascript!</h2>    
+        <h2 class="quesPosition">Lets get ready to review Javascript!</h2>    
+        <h2 class="AnsPosition"></h2>
         <button id="start">Start!</button>    
         </div>
     </main>
